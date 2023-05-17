@@ -1,5 +1,8 @@
 import React from 'react'
 import logo from "/images/logo.svg"
+import ChartComponent from './ChartComponent'
+
+
 const CardComponent = () => {
   return (
     <section>
@@ -12,6 +15,7 @@ const CardComponent = () => {
         </div>
         <div className='chart-preview'>
             <h1>Spending - Last 7 days</h1>
+            <ChartComponent/>
             <hr/>
             <div className='chart-summary'>
                 <div className='this-month'>
