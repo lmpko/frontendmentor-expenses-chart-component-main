@@ -113,6 +113,7 @@ main{
 
 .day{
     margin-top: .3125rem ;
+    color: var(--fouthary-color);
 }
 
 .max-amount{
