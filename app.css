@@ -133,3 +133,27 @@ main{
     margin: .3125rem 0;  
     font-size: 0.7rem;
 }
+
+@media screen and (min-width: 768px){
+    main{
+        width: 33.75rem ;
+    }
+
+    .chart-amount{
+        width: 3rem;
+        margin: 0 .7rem;
+    }
+
+    .tooltip{
+        font-size: 1rem;
+    }
+
+    .this-month span:nth-child(2){
+        font-size: 2.5rem;
+    }
+
+    .chart-preview hr{
+        margin: 3rem 0;
+    }
+}
+
