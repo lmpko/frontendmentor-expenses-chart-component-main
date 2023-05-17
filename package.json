@@ -1,0 +1,28 @@
+{
+  "name": "expenses-chart-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "pardel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmpko/frontendmentor-expenses-chart-component-main.git"
+  },
+  "author": "lmp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmpko/frontendmentor-expenses-chart-component-main/issues"
+  },
+  "homepage": "https://github.com/lmpko/frontendmentor-expenses-chart-component-main#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
